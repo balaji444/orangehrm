@@ -1,0 +1,42 @@
+Client Info
+
+User Agent : Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
+Remote Address : ::1
+
+Server Info
+
+Host : localhost
+PHP Version : 5.6.15
+Server : Apache/2.4.17 (Win32) OpenSSL/1.0.2d PHP/5.6.15
+Admin : postmaster@localhost
+
+Document Root : D:/xampp/htdocs
+ROOT_PATH : D:\xampp\htdocs\orangehrm\hrtool
+
+OrangeHRM Installation Log
+
+Wed, 14 Jun 2017 06:35:19 +0200 DB Creation - Starting
+Wed, 14 Jun 2017 06:35:19 +0200 DB Creation - Done
+Wed, 14 Jun 2017 06:35:19 +0200 DB Creation - No Errors
+Wed, 14 Jun 2017 06:35:22 +0200 Fill Data Phase 1 - Starting
+Wed, 14 Jun 2017 06:35:22 +0200 Fill Data Phase 1 - Connected to the DB Server
+Wed, 14 Jun 2017 06:35:22 +0200 Fill Data Phase 1 - Selected the DB
+Wed, 14 Jun 2017 06:35:22 +0200 Fill Data Phase 1 - Reading DB Script
+Wed, 14 Jun 2017 06:35:22 +0200 Fill Data Phase 1 - Opened DB Script
+Wed, 14 Jun 2017 06:35:22 +0200 Fill Data Phase 1 - Read DB script
+Wed, 14 Jun 2017 06:35:22 +0200 Fill Data Phase 1 - There are 284 Statements in the DB script
+Wed, 14 Jun 2017 06:37:27 +0200 Fill Data Phase 1 - Done
+Wed, 14 Jun 2017 06:37:27 +0200 Fill Data Phase 1 - No Errors
+Wed, 14 Jun 2017 06:37:30 +0200 Fill Data Phase 2 - Starting
+Wed, 14 Jun 2017 06:37:30 +0200 Fill Data Phase 2 - Connected to the DB Server
+Wed, 14 Jun 2017 06:37:30 +0200 Fill Data Phase 2 - Selected the DB
+Wed, 14 Jun 2017 06:37:30 +0200 Fill Data Phase 2 - Reading DB Script
+Wed, 14 Jun 2017 06:37:30 +0200 Fill Data Phase 2 - Opened DB Script
+Wed, 14 Jun 2017 06:37:30 +0200 Fill Data Phase 2 - Read DB script
+Wed, 14 Jun 2017 06:37:30 +0200 Fill Data Phase 2 - There are 127 Statements in the DB script
+Wed, 14 Jun 2017 06:37:36 +0200 Fill Data Phase 1 - Connected to the DB Server
+Wed, 14 Jun 2017 06:37:36 +0200 Fill Data Phase 2 - Done
+Wed, 14 Jun 2017 06:37:37 +0200 Fill Data Phase 2 - No Errors
+Wed, 14 Jun 2017 06:37:39 +0200 Create DB user - Starting
+Wed, 14 Jun 2017 06:37:39 +0200 Create DB user - Done
+Wed, 14 Jun 2017 06:37:39 +0200 Create DB user - No Errors

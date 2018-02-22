@@ -1,0 +1,48 @@
+Client Info
+
+User Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+Remote Address : ::1
+
+Server Info
+
+Host : localhost
+PHP Version : 5.6.24
+Server : Apache/2.4.23 (Win32) OpenSSL/1.0.2h PHP/5.6.24
+Admin : postmaster@localhost
+
+Document Root : D:/xampp/htdocs
+ROOT_PATH : D:\xampp\htdocs\orangehrm
+
+OrangeHRM Installation Log
+
+Mon, 27 Feb 2017 05:42:48 +0100 DB Creation - Starting
+Mon, 27 Feb 2017 05:42:48 +0100 DB Creation - Done
+Mon, 27 Feb 2017 05:42:48 +0100 DB Creation - No Errors
+Mon, 27 Feb 2017 05:42:50 +0100 Fill Data Phase 1 - Starting
+Mon, 27 Feb 2017 05:42:50 +0100 Fill Data Phase 1 - Connected to the DB Server
+Mon, 27 Feb 2017 05:42:50 +0100 Fill Data Phase 1 - Selected the DB
+Mon, 27 Feb 2017 05:42:50 +0100 Fill Data Phase 1 - Reading DB Script
+Mon, 27 Feb 2017 05:42:50 +0100 Fill Data Phase 1 - Opened DB Script
+Mon, 27 Feb 2017 05:42:50 +0100 Fill Data Phase 1 - Read DB script
+Mon, 27 Feb 2017 05:42:50 +0100 Fill Data Phase 1 - There are 284 Statements in the DB script
+Mon, 27 Feb 2017 05:44:58 +0100 Fill Data Phase 1 - Done
+Mon, 27 Feb 2017 05:44:58 +0100 Fill Data Phase 1 - No Errors
+Mon, 27 Feb 2017 05:45:01 +0100 Fill Data Phase 2 - Starting
+Mon, 27 Feb 2017 05:45:01 +0100 Fill Data Phase 2 - Connected to the DB Server
+Mon, 27 Feb 2017 05:45:01 +0100 Fill Data Phase 2 - Selected the DB
+Mon, 27 Feb 2017 05:45:01 +0100 Fill Data Phase 2 - Reading DB Script
+Mon, 27 Feb 2017 05:45:01 +0100 Fill Data Phase 2 - Opened DB Script
+Mon, 27 Feb 2017 05:45:01 +0100 Fill Data Phase 2 - Read DB script
+Mon, 27 Feb 2017 05:45:01 +0100 Fill Data Phase 2 - There are 127 Statements in the DB script
+Mon, 27 Feb 2017 05:45:06 +0100 Fill Data Phase 1 - Connected to the DB Server
+Mon, 27 Feb 2017 05:45:06 +0100 Fill Data Phase 2 - Done
+Mon, 27 Feb 2017 05:45:07 +0100 Fill Data Phase 2 - No Errors
+Mon, 27 Feb 2017 05:45:10 +0100 Create DB user - Starting
+Mon, 27 Feb 2017 05:45:10 +0100 Create DB user - Done
+Mon, 27 Feb 2017 05:45:10 +0100 Create DB user - No Errors
+Mon, 27 Feb 2017 05:45:13 +0100 Create OrangeHRM user - Starting
+Mon, 27 Feb 2017 05:45:13 +0100 Create OrangeHRM user - Done
+Mon, 27 Feb 2017 05:45:13 +0100 Create OrangeHRM user - No Errors
+Mon, 27 Feb 2017 05:45:16 +0100 Write Conf - Starting
+Mon, 27 Feb 2017 05:45:16 +0100 Write Conf - Done
+Mon, 27 Feb 2017 05:45:16 +0100 Write Conf - No Errors
